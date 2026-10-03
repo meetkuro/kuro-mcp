@@ -26,7 +26,7 @@ Add the endpoint above as a remote HTTP server, then complete OAuth. The `.mcp.j
 ### Claude Code plugin
 
 ```sh
-/plugin marketplace add Quentin967/kuro-mcp
+/plugin marketplace add meetkuro/kuro-mcp
 /plugin install kuro@kuro
 ```
 
