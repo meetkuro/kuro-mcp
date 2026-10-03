@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.meetkuro/kuro",
+  "title": "Kuro \u2014 AI images, video and audio",
+  "description": "Create AI images, clips, voice-overs, music and editable storyboard films from your AI assistant.",
+  "version": "2.0.0",
+  "websiteUrl": "https://meetkuro.com/",
+  "icons": [
+    {
+      "src": "https://meetkuro.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.meetkuro.com/mcp"
+    }
+  ]
+}
