@@ -1,0 +1,14 @@
+{
+  "name": "kuro",
+  "owner": {
+    "name": "Kuro",
+    "email": "support@meetkuro.com"
+  },
+  "plugins": [
+    {
+      "name": "kuro",
+      "source": "./",
+      "description": "Connect to Kuro’s hosted MCP server for AI images, video and audio."
+    }
+  ]
+}
