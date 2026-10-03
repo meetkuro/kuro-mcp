@@ -45,7 +45,7 @@ Generation uses the account's existing entitlements. Kuro has a free tier, paid 
 - [llms.txt](https://meetkuro.com/llms.txt)
 - [Terms](https://meetkuro.com/terms/)
 - [Privacy](https://meetkuro.com/privacy/)
-- Support: support@meetkuro.com
+- Support: hello@meetkuro.com
 
 ## License
 

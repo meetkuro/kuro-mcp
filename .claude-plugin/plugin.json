@@ -1,10 +1,10 @@
 {
   "name": "kuro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Connect to Kuro to create AI images, video clips, voice-overs, music and editable storyboard films.",
   "author": {
     "name": "Kuro",
-    "email": "support@meetkuro.com",
+    "email": "hello@meetkuro.com",
     "url": "https://meetkuro.com/"
   },
   "homepage": "https://meetkuro.com/",
@@ -15,7 +15,7 @@
     "meetkuro",
     "creative-mcp"
   ],
-  "displayName": "Kuro — AI images, video and audio",
+  "displayName": "Kuro \u2014 AI images, video and audio",
   "icon": "./.claude-plugin/icon.png",
   "privacyPolicyUrl": "https://meetkuro.com/privacy/"
 }
