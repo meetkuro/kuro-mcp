@@ -3,8 +3,8 @@
   "name": "io.github.meetkuro/kuro",
   "title": "Kuro \u2014 AI images, video and audio",
   "description": "Create AI images, clips, voice-overs, music and editable storyboard films from your AI assistant.",
-  "version": "2.0.0",
-  "websiteUrl": "https://meetkuro.com/",
+  "version": "2.0.1",
+  "websiteUrl": "https://meetkuro.com/agents/?utm_source=official-mcp-registry&utm_medium=directory&utm_campaign=2026-10-distribution",
   "icons": [
     {
       "src": "https://meetkuro.com/favicon.svg",
